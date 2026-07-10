@@ -54,7 +54,7 @@ export function Header() {
         </div>
 
         <div className="hidden md:block">
-          <Button href="/triagem" size="sm" variant="gold">
+          <Button href="/#contato" size="sm" variant="gold">
             Fale com um especialista
           </Button>
         </div>
@@ -91,7 +91,7 @@ export function Header() {
                 </Link>
               ))}
               <Button
-                href="/triagem"
+                href="/#contato"
                 size="md"
                 variant="gold"
                 className="mt-2"
