@@ -3,7 +3,12 @@
 import { Reveal } from "../Section";
 import { Eyebrow } from "../Avatar";
 import { Card } from "../Card";
-import { IconCompass, IconEye, IconScale, IconChart } from "../Icons";
+import {
+  IconCompass,
+  IconEye,
+  IconScale,
+  IconShield,
+} from "../Icons";
 
 const DIFFS = [
   {
@@ -22,7 +27,7 @@ const DIFFS = [
     desc: "Sem vínculo com bancos ou corretoras. Recebemos exclusivamente do cliente — nossa lealdade é uma só.",
   },
   {
-    icon: IconChart,
+    icon: IconShield,
     title: "Performance × risco",
     desc: "O objetivo não é bater um índice, é otimizar o par retorno/risco do seu patrimônio. Crescer dormindo tranquilo.",
   },
