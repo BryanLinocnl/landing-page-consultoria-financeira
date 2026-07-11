@@ -103,8 +103,8 @@ export function Hero() {
           >
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2.5rem] border border-white/10">
               <Image
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1920&auto=format&fit=crop"
-                alt="Executivo experiente em escritório de alta classe"
+                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1920&auto=format&fit=crop"
+                alt="Reunião executiva de planejamento patrimonial"
                 fill
                 className="object-cover img-dramatic"
                 priority
